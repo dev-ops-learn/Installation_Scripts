@@ -1,0 +1,24 @@
+1] What is Git and Git Hub.
+2] What is Repository , Organization and Branch in GitHub .
+3] How to create a branch and make one branch as default one .
+4] How to add the people into the Org and Repo ??
+5] List out the Type of permissions of Repository and Org ??
+6] What is the Fork and why we need to use that .
+7] What is Pull Request ??
+8] What is the conflict and how you are going to solve the conflict ??
+9] What is WebHooks??
+10] What is the difference between GIT and SVN?
+11] Why GIT better than Subversion?
+12] What is “Staging Area” or “Index” in GIT?
+13] What is GIT stash and Git Stash Drop ??
+14] what is Git Clone , Git Merge , Git commit , Git Pull , Git Push and Git init,Git Gonfig??
+15] What is another option for merging in git?
+16] What is the difference between ‘git remote’ and ‘git clone’?
+17] What is the function of ‘git diff ’ in git?
+18] What is the difference between the ‘git diff ’and ‘git status’?
+19] What is Git checkout , Git rm ,git log,git reset ??
+20] What is Git fork? What is difference between fork and branch? How to create tag?
+21] How to revert previous commit in git?
+22] How to rebase master in git? Difference between rebase and merge. How to squash or fixup commits?
+23] What is the function of ‘git reset’?
+24] What is the difference between git pull and git fetch?
